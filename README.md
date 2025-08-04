@@ -1,3 +1,7 @@
+### **INTRODUCTION TO BIG DATA**
+## **NAME: ISHIMWE ESTHER**
+## **ID: 27751**
+
 ### **Project Title: Patient Visit Analytics and Predictive Modeling**
 <img width="739" height="408" alt="Screenshot 2025-08-01 190444" src="https://github.com/user-attachments/assets/782fe44f-c99e-45ce-bb3f-fb106a8caa0c" />
 Dasboard
